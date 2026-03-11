@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+google-generativeai
+
+gitpython
+networkx
+scikit-learn
+numpy
+
+tqdm
+requests
